@@ -1,9 +1,9 @@
-# pacote_de_processamento_de_imagens
+# processador_de_imagem
 
 Descrição. 
 Este foi meu primeiro pacote de processamento de imagens em Python criado:
 
-O pacote pacote_de_processamento_de_imagens utiliza:
+O pacote processador_de_imagem utiliza:
 	Processamento:
 	- Localizador de histograma
 	- Similaridade de Estrutura
@@ -18,10 +18,10 @@ O pacote pacote_de_processamento_de_imagens utiliza:
 
 ## Instalação
 
-Utilize o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar o pacote_de_processamento_de_imagens
+Utilize o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar o processador_de_imagem
 
 ```bash
-pip install pacote_de_processamento_de_imagens
+pip install processador_de_imagem
 ```
 
 ## Author
